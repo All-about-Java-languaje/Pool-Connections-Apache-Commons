@@ -1,0 +1,4 @@
+Un pool de conexiones es un proceso que nos permite tener varias conexiones listas para ser utilizadas,
+debido a que en una aplicación empresarial crear una conexion es algo que consume muchos recursos, esto
+reduce el consumo de los mismos y nos permite agilizar todos estos procesos y no deberemos
+preocuparnos por abrir o cerrar una nueva conexión.
